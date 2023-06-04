@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요구르트~
 
 <!--
 **msm1638/msm1638** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
